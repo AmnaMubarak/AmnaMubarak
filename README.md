@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOei9vQECLgEQAm9Rr4vmfNaksY2U1z9oVdeeXl8-&s)](https://AmnaMubarak.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOei9vQECLgEQAm9Rr4vmfNaksY2U1z9oVdeeXl8-&s) width="400" height="790"]
 <h1 align="center">Hi 👋, I'm Amna Mubarak</h1>
 <h3 align="center">Professional Certified Data Analyst.</h3>
 
