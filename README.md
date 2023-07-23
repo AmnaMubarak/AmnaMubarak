@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Data Analyst.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and AI**
+- 🌱 I’m currently learning **Django and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmnaMubarak](https://github.com/AmnaMubarak)
 
