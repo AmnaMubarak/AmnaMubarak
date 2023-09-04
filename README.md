@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="amnamubarak" /> </p>
 
-- 🔭 I’m currently working as a **Data Analyst.**
+- 🔭 I’m currently working as a **Data Science Intern @Love For Data**
 
-- 🌱 I’m currently learning **Django and Node.js**
+- 🌱 I’m currently exploring **Backend languages** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmnaMubarak](https://github.com/AmnaMubarak)
 
