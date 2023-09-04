@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmnaMubarak](https://github.com/AmnaMubarak)
 
-- 💬 Ask me about **Data Analysis, Data Cleaning, Data Visualization and Machine Learning.**
+- 💬 Ask me about **Data Analysis, Data Cleaning, Data Visualization and Django.**
 
 - 📫 How to reach me **amnamubarakk111@gmail.com**
 
