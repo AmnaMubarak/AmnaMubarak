@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="amnamubarak" /> </p>
 
-- 🔭 I’m currently working on  *Next JS, Python, Djnago*
+- 🔭 I’m currently working on  *FAST API, NODE JS, REACT AND NEXT JS*
 
 - 🌱 I’m currently exploring *Backend languages* 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmnaMubarak](https://github.com/AmnaMubarak)
 
-- 💬 Ask me about *Data Analysis, Data Cleaning, Data Visualization and Django.*
+- 💬 Ask me about *Python Development, Data Analysis, Data Visualization.*
 
 - 📫 How to reach me *amnamubarakk111@gmail.com*
 
