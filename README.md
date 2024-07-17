@@ -1,31 +1,25 @@
-# Hi there, I'm Amna Mubarak 👋
+<h1 align="center">Hi 👋, I'm Amna Mubarak</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="amnamubarak" /> </p>
 
-I'm a passionate developer working with **Next.js, Python, and Django**, currently diving deep into the world of backend development. I love exploring new technologies and building projects that challenge me to learn more.
+- 🔭 I’m currently working on  *Next JS, Python, Djnago*
 
-## 🌱 What I'm focusing on
+- 🌱 I’m currently exploring *Backend languages* 
 
-Currently, I'm exploring backend languages and technologies, aiming to enhance my understanding and skills in creating robust backend systems.
+- 👨‍💻 All of my projects are available at [https://github.com/AmnaMubarak](https://github.com/AmnaMubarak)
 
-## 🔍 Where to find my projects
+- 💬 Ask me about *Data Analysis, Data Cleaning, Data Visualization and Django.*
 
-You can check out all my projects right here on GitHub at [AmnaMubarak](https://github.com/AmnaMubarak).
+- 📫 How to reach me *amnamubarakk111@gmail.com*
 
-## 💬 Let's talk!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amna-mubarak-6729b0217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amna-mubarak-6729b0217/" height="30" width="40" /></a>
+<a href="https://kaggle.com/k201695amnamubarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="k201695amnamubarak" height="30" width="40" /></a>
+</p>
 
-I'm open to discussing topics related to **Data Analysis, Data Cleaning, Data Visualization, and Django**. If you have any questions or just want to say hi, feel free to reach out!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-- 📫 How to reach me: **amnamubarakk111@gmail.com**
 
-## 🤝 Connect with me
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/amna-mubarak-6729b0217/) [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/k201695amnamubarak)
-
-## 💻 Languages and Tools
-
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![Django](https://cdn.worldvectorlogo.com/logos/django.svg) ![Framer](https://www.vectorlogo.zone/logos/framer/framer-icon.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
-
-## 📊 GitHub Stats
-
-![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&locale=en)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&locale=en" alt="amnamubarak" /></p>
