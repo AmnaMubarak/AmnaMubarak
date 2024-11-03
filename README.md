@@ -30,33 +30,19 @@
 
 <div align="center">
 
+# 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
 ### Languages & Frameworks
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
 
-### AI & Data
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-121212?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+### AI & Data Science
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter&theme=dark)](https://skillicons.dev)
 
-### Database & Tools
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Meltano-000000?style=for-the-badge&logo=meltano&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+### Database & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws,azure,gcp&theme=dark)](https://skillicons.dev)
 
+### Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,linux,bash&theme=dark)](https://skillicons.dev)
 </div>
 
 ## 📊 GitHub Stats
