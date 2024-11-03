@@ -29,21 +29,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
-
-### AI & Data Science
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter&theme=dark)](https://skillicons.dev)
-
-### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws,azure,gcp&theme=dark)](https://skillicons.dev)
-
-### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,linux,bash&theme=dark)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,nodejs,express,fastapi,spring,flask,graphql,nestjs,angular,vite,html,css,sass,tailwind,materialui,bootstrap,babel,pug,redux,mongodb,mysql,postgres,redis,sqlite,firebase,elasticsearch,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)</div>
 
 ## 📊 GitHub Stats
 
