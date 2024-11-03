@@ -1,20 +1,19 @@
 <div align="center"> <img height="300" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="cover"> </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<div>
+  <br/><br/>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amna Mubarak</h1>
-<h3 align="left">A passionate Full Stack & AI Developer from Pakistan</h3>
-
+ 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="amnamubarak" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amnamubarak?label=Stars&style=flat">
 </p>
 
-## 👨🏻‍💻 About Me
-
-- 🔭 I'm currently working on **AI-Powered Applications & Full Stack Development**
+- 🔭 I'm currently working on **AI-Powered Applications & Mobile Application Development**
 - 🌱 I'm exploring **Large Language Models & Vector Databases**
-- 💬 Ask me about **Python, Data Analysis, Backend Development, AI/ML**
+- 💬 Ask me about **Python, Data Analysis, Backend Development, GenAI**
 - 📫 Reach me at **amnamubarakk111@gmail.com**
 
 <br/>
@@ -24,13 +23,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=amnamubarak&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&row=1" width="100%" />
 </p>
 
-## 🛠️ Tech Stack
+<br/>
 
-<div align="center">
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## 🛠️ Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+<div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,nodejs,fastapi,django,flask,html,css,tailwind,materialui,bootstrap,babel,redux,mongodb,mysql,postgres,firebase,selenium,docker,githubactions,aws,azure,eclipse,git,github,postman,stackoverflow,vscode,notion,idea&theme=dark)](https://skillicons.dev)
 
+<br/>
 
 ## 📊 GitHub Stats
 
