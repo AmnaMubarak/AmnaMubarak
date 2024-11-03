@@ -31,7 +31,8 @@
 <div align="center">
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,nodejs,express,fastapi,spring,flask,graphql,nestjs,angular,vite,html,css,sass,tailwind,materialui,bootstrap,babel,pug,redux,mongodb,mysql,postgres,redis,sqlite,firebase,elasticsearch,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)</div>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,reactnative,nextjs,nodejs,openai,langchain,fastapi,django,flask,html,css,tailwind,materialui,bootstrap,babel,redux,mongodb,mysql,postgres,firebase,selenium,docker,githubactions,aws,azure,eclipse,git,github,postman,stackoverflow,vscode,notion,idea&theme=dark)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats
 
