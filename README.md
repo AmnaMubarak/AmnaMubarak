@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome">
+  <img height="300" width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amna Mubarak</h1>
 <h3 align="left">A passionate Full Stack & AI Developer from Pakistan</h3>
@@ -10,11 +10,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amnamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="amnamubarak" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amnamubarak?label=Stars&style=flat">
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amnamubarak&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&row=1" width="100%" />
 </p>
 
 ## 👨🏻‍💻 About Me
@@ -25,6 +20,11 @@
 - 📫 Reach me at **amnamubarakk111@gmail.com**
 
 <br/>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amnamubarak&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&row=1" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### AI & Data
