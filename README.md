@@ -32,10 +32,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=tokyonight" alt="Amna's github stats" /> 
-   <img width="49%" height="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=tokyonight" />
-</div>
+<div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="Amna's github stats"/><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=radical&bg_color=0d1117&hide_border=true"/></div>
 
 
 ## ⚡ Recent GitHub Activity
