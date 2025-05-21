@@ -1,125 +1,89 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmnaMubarak/AmnaMubarak/assets/74038190/9be70be0-4315-4565-99d9-b6b25ed363a3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmnaMubarak/AmnaMubarak/assets/74038190/cd34433c-52f2-461f-a429-9ff1c59ad358">
-  <img alt="Background Header" src="https://github.com/AmnaMubarak/AmnaMubarak/assets/74038190/9be70be0-4315-4565-99d9-b6b25ed363a3">
-</picture>
+# Amna Mubarak
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=AI+Developer;Full+Stack+Engineer;Data+Analyst)](https://git.io/typing-svg)
 
 <div align="center">
-  <h1>Hi there, I'm Amna</h1>
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7A54BC&center=true&vCenter=true&width=435&lines=AI+Developer;Python+Expert;Backend+Engineer" alt="Typing SVG" />
-  </div>
+  <a href="https://linkedin.com/in/amna-mubarak-6729b0217/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/k201695amnamubarak"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:amnamubarakk111@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=amnamubarak&style=flat&color=0e75b6"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/amnamubarak?style=social" alt="stars">
-  <img src="https://komarev.com/ghpvc/?username=amnamubarak&style=plastic&color=blueviolet" alt="profile views">
-</div>
+<br/>
 
-<br>
+## About Me
 
-<img align="right" src="https://camo.githubusercontent.com/e0029dfa14dee0b8591cd24ce99defebe7bcd120286080bbffd2a07834e34e81/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d612d31724c7741414141642f6465762e676966" width="40%">
+```python
+class AmnaMubarak:
+    def __init__(self):
+        self.name = "Amna Mubarak"
+        self.role = "AI & Full Stack Developer"
+        self.languages = ["Python", "JavaScript", "TypeScript", "Java"]
+        self.interests = ["AI", "Large Language Models", "Data Analysis", "Backend Development"]
+        self.currently_working_on = "AI-Powered Applications & Mobile Development"
+        self.exploring = "Vector Databases & LLMs"
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile! Let's connect and build something amazing together!")
 
-## 💫 About Me
+me = AmnaMubarak()
+me.say_hi()
+```
 
-I'm an AI developer and backend engineer passionate about creating intelligent applications that solve real-world problems.
+## Skills
 
-- 🔭 Working on **AI Applications & Mobile Development**
-- 🌱 Exploring **LLMs & Vector Databases**
-- 💬 Ask me about **Python, Data Analysis, Backend Development**
-- 📫 Reach me at **amnamubarakk111@gmail.com**
-
-<br clear="both">
-
-## 🌈 My Skills
-
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </div>
+<details>
+  <summary><b>Languages & Frameworks</b></summary>
+  <br/>
   
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  </div>
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=oracle&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+</details>
+
+<details>
+  <summary><b>Database & Tools</b></summary>
+  <br/>
   
-  <div>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </div>
-</div>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+</details>
 
-<br>
+<br/>
+
+## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&hide_border=true" />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amnamubarak&theme=dark&background=00000000&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amnamubarak&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amnamubarak&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=dark&bg_color=00000000&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&hide_border=true" />
-  </picture>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnamubarak&theme=github-dark-blue&hide_border=true" height="160"/>
 </div>
-
-## 📊 Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amnamubarak/amnamubarak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amnamubarak/amnamubarak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amnamubarak/amnamubarak/output/github-contribution-grid-snake.svg">
-  </picture>
+  <br/>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amnamubarak&theme=github-dark&hide_border=true"/>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/amna-mubarak-6729b0217/">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
-  </a>
-  <a href="https://kaggle.com/k201695amnamubarak">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/238200622-23f8d0f7-4b7b-4bf2-b11b-4c4304fffca4.gif"/>
-  </a>
-  <a href="mailto:amnamubarakk111@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>
-  </a>
-</div>
-
-<img width="100%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+<div align="center">Let's connect and build amazing software together!</div>
