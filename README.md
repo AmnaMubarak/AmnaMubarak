@@ -34,12 +34,9 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=tokyonight" alt="Amna's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=amnamubarak&theme=tokyonight" alt="Amna's github streak" />
+   <img width="49%" height="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnamubarak&layout=compact&theme=tokyonight" />
-</div>
 
 ## ⚡ Recent GitHub Activity
  
