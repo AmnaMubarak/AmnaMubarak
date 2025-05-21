@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Amna%20Mubarak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Data%20Enthusiast%20|%20Backend%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Amna Mubarak" width="100%"/>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="37px" height="37px"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left">
   I'm a passionate AI developer and data enthusiast with expertise in building intelligent applications. My journey in tech involves creating solutions that leverage cutting-edge technologies to solve real-world problems.
