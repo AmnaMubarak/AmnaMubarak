@@ -40,32 +40,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/amnamubarak/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amnamubarak&repo=project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/amnamubarak/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amnamubarak&repo=project2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/amnamubarak/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amnamubarak&repo=project3&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/amnamubarak/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amnamubarak&repo=project4&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/amnamubarak?tab=repositories"><img alt="More Repositories" title="More Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logoColor=white"/></a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amnamubarak&show_icons=true&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Amna's github stats"/>
@@ -163,46 +138,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 35 mins  ███████████▓░░░░░░░░░  48.25%
-JavaScript   8 hrs 40 mins   ████████▒░░░░░░░░░░░░  33.27%
-TypeScript   2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░   8.65%
-HTML         1 hr 05 mins    █░░░░░░░░░░░░░░░░░░░░   4.15%
-CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░   2.88%
-```
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Transforming Industries with Generative AI](https://medium.com/@amnamubarak/transforming-industries-with-generative-ai)
-- [Effective Data Visualization Techniques for Data Scientists](https://medium.com/@amnamubarak/effective-data-visualization)
-- [Getting Started with Vector Databases for AI Applications](https://medium.com/@amnamubarak/vector-databases-for-ai-applications)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🎓 Certifications & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Developer"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
-  <img src="https://img.shields.io/badge/Kaggle-Competition%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Expert"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -215,10 +150,10 @@ CSS          45 mins         ▓░░░░░░░░░░░░░░░░
   <a href="mailto:amnamubarakk111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/amnamubarak" target="_blank">
+  <a href="https://x.com/amnamubarakk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@amnamubarak" target="_blank">
+  <a href="https://medium.com/@amnamubarakk" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://dev.to/amnamubarak" target="_blank">
